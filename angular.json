@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "angular-deployment-demo": {
+      "architect": {
+        "build": {
+          "options": {
+            "outputPath": "dist/angular-deployment-demo"
+          }
+        }
+      }
+    }
+  }
+}
